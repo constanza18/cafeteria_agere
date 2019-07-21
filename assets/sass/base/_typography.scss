@@ -1,0 +1,32 @@
+body{
+    font-family: $pt-mono;
+}
+
+.navbar{
+    font-size: $medium;
+}
+
+.header__titulo{
+    font-family: $pt-mono;
+    font-size: $xxx-large;
+    color: $black;
+}
+
+.header__subtitulo{
+    font-family: $roboto;
+    font-size: $large;
+    color: $black;
+}
+
+h2{
+    font-size: $xx-large;
+}
+
+p{
+    font-family: $roboto;
+    font-size: $medium;
+}
+
+.section__titulo{
+    font-size: $x-large;
+}

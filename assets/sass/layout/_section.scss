@@ -1,0 +1,40 @@
+.section-text{
+    padding: 50px;
+    float: left;
+
+}
+.caja-azul{
+    background-color: $blue-de-france;
+    width: 469px;
+    height: 232px;
+    left: 500px;
+    position: absolute;
+    z-index: -1;
+}
+
+.section__texto{
+    width: 250px;
+}
+
+.mapa{
+    width: 396px;
+    height: 210px;
+    top: 540px;
+    left: 450px;
+    position: absolute;
+    z-index: 1;
+}    
+
+.cafe{
+    width: 96px;
+    height: 165px;
+    left: 920px;
+    position: absolute;
+    z-index: 2;
+}
+.cafeteria{
+    width: 381px;
+    height: 264px;
+    right: 0;
+    position: absolute;
+}    

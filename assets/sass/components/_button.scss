@@ -1,0 +1,26 @@
+.btn {
+    border: none; 
+    color: white; 
+    padding: 8px 15px; 
+    cursor: pointer; 
+    font-size: $medium;
+  }
+
+.success {
+    background-color: $shiny-shamrock;
+    } 
+
+.success:hover {
+    background-color: $turquoise-green;
+    }
+
+.default {
+    background-color: $white; 
+    border: 1px solid black;
+    color: black;
+    }
+
+.default:hover {
+    background: $white;
+    color: $quick-silver;
+    }

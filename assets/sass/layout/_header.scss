@@ -1,0 +1,70 @@
+header{
+    .header-imagen{
+        width: 900px;
+        height: 440px;    
+    }
+    
+    .header-texto{
+        padding: 50px;
+    }
+
+    .header-container{
+        background-color: $white;
+        color: $black;
+        width: 469px;
+        height: 136px;
+        position: absolute;
+        top: 374px;
+        left: 431px;
+        clear: both;
+        margin: 2px;
+        padding-top: 25px;
+        padding-left: 30px;
+    }
+
+    .texto-caja{
+        float: left;
+    }
+
+    .caja1{
+        width: 125px;
+    }
+
+    .caja2{
+        width: 120px;
+        padding-left: 25px; 
+    }
+    .caja3{
+        width: 170px;
+        padding-left: 25px;
+    }
+
+    .header-icono{
+        background-color: $flame;
+        width: 134px;
+        height: 136px;
+        position: absolute;
+        left: 870px;
+        top: 350px;
+    }
+
+    .header-icono-amarillo{
+        background-color: $coral;
+        width: 134px;
+        height: 136px;
+        left: 890px;
+        top: 370px;
+        position: absolute;
+        z-index: -1;
+
+    }
+
+    .icono{
+        color: $white;
+        position: absolute;
+        text-align: center;
+        left: 40px;
+        top: 40px;
+    }
+
+}
